@@ -1,3 +1,4 @@
 node_modules
 .new.key
 words
+contracts/target
