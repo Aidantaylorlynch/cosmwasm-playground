@@ -1,0 +1,22 @@
+{
+  "name": "cosmwasm-playground",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cosmjs/cli": "^0.28.9"
+  },
+  "dependencies": {
+    "@cosmjs/cosmwasm-stargate": "^0.28.9",
+    "@cosmjs/crypto": "^0.28.9",
+    "@cosmjs/proto-signing": "^0.28.9",
+    "@cosmjs/stargate": "^0.28.9"
+  }
+}
